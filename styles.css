@@ -1,6 +1,7 @@
 :root{
-  --ink:#14211f; --muted:#52615e; --bg:#f6f9f8; --paper:#fff; --line:#d9e3e0;
-  --green:#0d4a45; --green-2:#0a3733; --rose:#f4bcc4; --rose-d:#b0455a;
+  --ink:#111111; --muted:#5a5050; --bg:#fbf8f8; --paper:#fff; --line:#e6dcdc;
+  --green:#990000; --green-2:#740000;
+  --rose:#f6d3d6; --rose-d:#c8102e;
   --r:10px; --serif:"Fraunces",Georgia,serif; --sans:"Instrument Sans",system-ui,sans-serif;
 }
 @media (prefers-color-scheme:dark){
